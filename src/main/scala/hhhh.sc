@@ -3,8 +3,8 @@ def Hirecur(S: String, x: Int, y: Int): Unit ={
   println(h)
 
   if (y!= 0){
-    Hirecur(S, x,y-1)
-    //println(S)
+    Hirecur(S, x, y-1)
+   // println(S)
   }
 
 }
