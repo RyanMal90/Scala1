@@ -1,5 +1,5 @@
 
-printH("Hi", 4)
+printH("H", 4)
 def printH(myHi: String, intHi: Int) = {
   var printer = "" //let you know it is a string
   var a = 0
